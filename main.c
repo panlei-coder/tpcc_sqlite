@@ -431,7 +431,7 @@ int main( int argc, char *argv[] )
 #endif
   }
   */
-  counting_on = 0;
+  counting_on = 1;
 
 
 #ifndef _SLEEP_ONLY_
